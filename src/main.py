@@ -1,0 +1,2 @@
+def prog:
+    return prog
